@@ -1,0 +1,83 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+span {
+	color: white;
+}
+div {
+	
+	display: inline-block;
+}
+.block {
+	background-color: #b1b1b1;
+}
+.main {
+	margin: 20px;
+	display: block;
+	width: 1024px;
+	background-color: white;
+}
+.header {
+	width: 100%;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.logo {
+	
+	position: left;
+	float: left;
+	padding: 1.5% 10%;
+}
+.banner {
+	position: right;
+	float: right;
+	padding: 1.5% 18%;
+}
+.nav {
+	display: block;
+	padding: 5px;
+	margin: 10px 0;
+	text-align: center;
+}
+.center {
+	height: 1000px;
+}
+.left {
+	width: 49%;
+	height: 100%;
+}
+.middle {
+	width: 25%;
+}
+.right {
+	width: 25%;
+}
+.deal {
+	margin-bottom: 10px;
+	height: 25%;
+	width: 100%;
+}
+.partners {
+	margin-bottom: 10px;
+	height: 25%;
+	width: 100%;
+}
+.categor {
+	padding: 5px 0;
+	height: 50%;
+	width: 100%;
+}
+.member {
+	width: 100%;
+	height: 25%;
+	margin-bottom: 10px;
+}
+.pet {
+	width: 100%;
+	height: 74%;
+}
